@@ -1698,7 +1698,7 @@ textarea {
   [type=text],
   [type=email],
   textarea {
-    padding: 5px 0;
+    padding: 0;
   }
 }
 [type=text]:hover,
