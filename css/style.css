@@ -1647,7 +1647,6 @@ select:hover {
   [type=text],
   [type=email] {
     width: 319px;
-    height: 19px;
   }
 }
 [type=text]:hover,
